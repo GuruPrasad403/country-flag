@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    height: 200vh;
+}
+body button{
+    margin:10em;
+    padding: 2em;
+    border-radius: 10em;
+    border: none;
+    background-color: brown;
+}
+#countrySelector{
+    margin: 5EM;
+    padding: 10px;
+    border-radius: 10em;
+}
